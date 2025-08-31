@@ -150,6 +150,6 @@ export const homebrew: HomebrewModuleType = {
 
 Now fill in your actual faction description. If you're using a TypeScript aware editor (such as VS Code), it will help you get the right field names and in some cases tell you if your values aren't legal (such as an unknown tech color).
 
-See src/factions.ts for an example.
+See [src/factions.ts](https://github.com/darrellanderson/ti4-hb-gear-grinders/blob/main/src/factions.ts) for an example.
 
 THIS IS A WORK IN PROGRESS
