@@ -16,7 +16,7 @@ export const factions: Array<FactionSchemaType> = [
       heroes: ["the-tentacles-embrace"],
       mechs: ["eight-armed-terror"],
     },
-    promissories: [""],
+    promissories: ["industrial-embrace"],
     startingTechs: ["duranium-armor"],
     startingUnits: {
       dreadnought: 1,

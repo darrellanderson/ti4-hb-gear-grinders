@@ -1,0 +1,76 @@
+{
+    "Type": "Card",
+    "GUID": "8AC5F5281376C951D6FED087822740B6",
+    "Name": "Leaders",
+    "Metadata": "",
+    "CollisionType": "Regular",
+    "Friction": 0.7,
+    "Restitution": 0,
+    "Density": 0.5,
+    "SurfaceType": "Cardboard",
+    "Roughness": 1,
+    "Metallic": 0,
+    "PrimaryColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "SecondaryColor": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+    },
+    "Flippable": true,
+    "AutoStraighten": false,
+    "ShouldSnap": true,
+    "ScriptName": "",
+    "Blueprint": "",
+    "Models": [],
+    "Collision": [],
+    "SnapPointsGlobal": false,
+    "SnapPoints": [],
+    "ZoomViewDirection": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "FrontTexture": "card/leader/hb-gear-grinders/hb-gear-grinders.face.jpg",
+    "BackTexture": "card/leader/hb-gear-grinders/hb-gear-grinders.back.jpg",
+    "HiddenTexture": "",
+    "BackIndex": -3,
+    "HiddenIndex": -1,
+    "NumHorizontal": 1,
+    "NumVertical": 4,
+    "Width": 6.3,
+    "Height": 4.2,
+    "Thickness": 0.05,
+    "HiddenInHand": true,
+    "UsedWithCardHolders": true,
+    "CanStack": true,
+    "UsePrimaryColorForSide": false,
+    "FrontTextureOverrideExposed": false,
+    "AllowFlippedInStack": false,
+    "MirrorBack": true,
+    "Model": "Rounded",
+    "Indices": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "CardNames": {
+        "0": "Robur the Conqueror",
+        "1": "The Octopus",
+        "2": "The Tentacles Embrace",
+        "3": "Eight Armed Terror"
+    },
+    "CardMetadata": {
+        "0": "card.leader.agent:hb-gear-grinders/robur-the-conqueror",
+        "1": "card.leader.commander:hb-gear-grinders/the-octopus",
+        "2": "card.leader.hero:hb-gear-grinders/the-tentacles-embrace",
+        "3": "card.leader.mech:hb-gear-grinders/eight-armed-terror"
+    },
+    "CardTags": {},
+    "GroundAccessibility": "ZoomAndContext",
+    "Tags": []
+}
