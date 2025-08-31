@@ -187,7 +187,7 @@ When TTPG loads a package with an inject script, the homebrew loader picks it up
 
 ## Creating your TTPG mod
 
-THIS SECTION IS IN PROGRESS
+The generate script creates an `assets` directory with your TTPG assets. You can manually copy the into your TTPG mod, or use @ThatRobHuman's [create-ttpg-package](https://github.com/RobMayer/create-ttpg-package) to do it for you (included with ti4-hb-helper, this requires a little more technical knowledge).
 
 ## TTPG validation
 
