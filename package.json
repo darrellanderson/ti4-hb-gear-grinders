@@ -1,0 +1,8 @@
+{
+  "name": "ti4-hb-gear-grinders",
+  "version": "1.0.0",
+  "license": "Unlicense",
+  "dependencies": {
+    "ti4-hb-helper": "^1.0.75"
+  }
+}
