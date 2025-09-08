@@ -100,7 +100,7 @@ Create a `src/homebrew.ts` file with:
 
 ```
 import { refPackageId } from "@tabletop-playground/api";
-import { HomebrewModuleType } from "ti4-ttpg-ts-types";
+import { HomebrewModuleType } from "ti4-ttpg-ts";
 
 const packageId: string = refPackageId;
 
@@ -127,7 +127,7 @@ You'll see a bunch of "console.log" messages with messages about what files it i
 Create a new `src/factions.ts` file with:
 
 ```
-import { FactionSchemaType } from "ti4-ttpg-ts-types";
+import { FactionSchemaType } from "ti4-ttpg-ts";
 
 export const factions: Array<FactionSchemaType> = []
 ```
@@ -136,7 +136,7 @@ and update `src/generate.test.ts` to use it:
 
 ```
 import { refPackageId } from "@tabletop-playground/api";
-import { HomebrewModuleType } from "ti4-ttpg-ts-types";
+import { HomebrewModuleType } from "ti4-ttpg-ts";
 
 import { factions } from "./factions";
 
